@@ -1,0 +1,26 @@
+{
+  "name": "myweb",
+  "version": "1.0.0",
+  "description": "created by bizer744 {myart}",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bizer744/arweavebizerweb.git"
+  },
+  "keywords": [
+    "arweave"
+  ],
+  "author": "bizer744",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bizer744/arweavebizerweb/issues"
+  },
+  "homepage": "https://github.com/bizer744/arweavebizerweb#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  }
+}
